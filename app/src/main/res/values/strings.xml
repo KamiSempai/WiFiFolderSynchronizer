@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WiFi Synchronizer</string>
+    <string name="synchronize_service_message">Синхронизация запущена.</string>
+    <string name="synchronize_service_progress">Синхронизация... Выполненно</string>
+    <string name="synchronize_service_success">Копирование файлов завершено.</string>
+    <string name="synchronize_service_err_no_sd_card">Нет доступа к SD карте.</string>
+</resources>
